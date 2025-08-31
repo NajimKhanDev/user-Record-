@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+*{
+  
+  box-sizing: border-box;
+
+}
+#card
+::-webkit-scrollbar{
+  display: none;
+}
+#task
+::-webkit-scrollbar{
+  display: none;
+}
+
